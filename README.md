@@ -2,7 +2,7 @@
 
 ## Description
 
-This challenge was to change the HTML tags to make semantic HTML. There are comments next to most of the changes that I made. 
+This challenge was to change the HTML tags to make semantic HTML. There are comments next to most of the changes that I made in both the HTML and CSS files. 
 
 ## Usage
 
